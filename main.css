@@ -15,7 +15,9 @@ body {
   min-height: 100vh;
   background: #13132B;
   font-size: .5rem;
-  font-family: -apple-system,
+  font-family: 
+    'Michroma',
+    -apple-system,
     BlinkMacSystemFont,
     "Segoe UI",
     Roboto,
